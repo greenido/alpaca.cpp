@@ -1,6 +1,11 @@
 # Alpaca.cpp
 
-Run a fast ChatGPT-like model locally on your device. The screencast below is not sped up and running on an M2 Macbook Air with 4GB of weights. 
+Run a fast ChatGPT-like model locally on your device. 
+The screencast below is not sped up and running on an M2 Macbook Air with 4GB of weights. 
+It will also work on M1 Pro 🚀
+
+(!) Get the ggml file from: https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml/blob/main/ggml-alpaca-7b-q4.bin
+
 
 
 [![asciicast](screencast.gif)](https://asciinema.org/a/dfJ8QXZ4u978Ona59LPEldtKK)
