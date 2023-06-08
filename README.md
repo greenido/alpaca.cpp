@@ -6,7 +6,13 @@ It will also work on M1 Pro 🚀
 
 (!) Get the ggml file from: https://huggingface.co/Sosaka/Alpaca-native-4bit-ggml/blob/main/ggml-alpaca-7b-q4.bin
 
+## Personal TODOs
+1. Check other dataset: https://huggingface.co/datasets
+2. Connect to NodeJS
+3. Run in docker
 
+
+------
 
 [![asciicast](screencast.gif)](https://asciinema.org/a/dfJ8QXZ4u978Ona59LPEldtKK)
 
